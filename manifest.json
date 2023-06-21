@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Pomodoro Chronometer",
+    "description": "Extensão de cronômetro para aplicar e realizar o método Pomodoro de foco e atenção",
+    "author": "Jeferson Job Ribeiro dos Santos",
+    "icons": {
+        "16": "public/icon.jpg"
+    },
+    "action": {
+   	 "default_title": "Pomodoro Chronometer",
+   	 "default_popup": "public/index.html",
+   	 "default_icon": "public/icon.jpg"
+    }
+}
